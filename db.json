@@ -1,7 +1,7 @@
 {
-    id: 0,
-    description: "GSSB-Coin",
-    external_url: "https://github.com/wotomas/GSSB-Coin/",
-    image: "https://twemoji.maxcdn.com/svg/1f40e.svg",
-    name: "GSSB Genesis NFT"
+    "id": 0,
+    "description": "GSSB-Coin",
+    "external_url": "https://github.com/wotomas/GSSB-Coin/",
+    "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
+    "name": "GSSB Genesis NFT"
 }
