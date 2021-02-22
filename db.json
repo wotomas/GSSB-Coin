@@ -1,7 +1,25 @@
 {
-    "id": 0,
-    "description": "GSSB-Coin",
-    "external_url": "https://github.com/wotomas/GSSB-Coin/",
-    "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
-    "name": "GSSB Genesis NFT"
+    "tokens": [
+        {
+            "id": 0,
+            "description": "GSSB-Coin",
+            "external_url": "https://github.com/wotomas/GSSB-Coin/",
+            "image": "https://raw.githubusercontent.com/wotomas/GSSB-Coin/main/gssb.png",
+            "name": "GSSB Genesis NFT"
+        },
+        {
+            "id": 1,
+            "description": "GSSB-Coin",
+            "external_url": "https://github.com/wotomas/GSSB-Coin/",
+            "image": "https://raw.githubusercontent.com/wotomas/GSSB-Coin/main/gssb.png",
+            "name": "GSSB Genesis NFT"
+        },
+        {
+            "id": 2,
+            "description": "GSSB-Coin",
+            "external_url": "https://github.com/wotomas/GSSB-Coin/",
+            "image": "https://raw.githubusercontent.com/wotomas/GSSB-Coin/main/gssb.png",
+            "name": "GSSB Genesis NFT"
+        }
+    ]
 }
